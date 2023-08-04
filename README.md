@@ -3,16 +3,17 @@
 ## NLP Chatbot Integrated with Food Delivery Website
 ``` Welcome to the NLP Chatbot repository! This project demonstrates the implementation of a chatbot using Google's Dialogflow that is seamlessly integrated with a food delivery website. This allows users to interact with the chatbot to place food orders, inquire about menu items, track deliveries, and more. The integration of natural language processing (NLP) enhances the user experience by providing a conversational interface.```
 
-Table of Contents
-Introduction
-Features
-Setup
-Dialogflow Setup
-Food Delivery Website Integration
-Usage
-Contributions
-License
-Introduction
+## Table of Contents
+- Introduction
+- Features
+- Setup
+- Dialogflow Setup
+- Food Delivery Website Integration
+- Usage
+- Contributions
+- License
+
+### Introduction
 This repository contains the code for creating an NLP-powered chatbot using Google Dialogflow. The chatbot is integrated with a food delivery website to provide users with a seamless and interactive way to browse menus, place orders, and get information about their orders.
 
 Features
